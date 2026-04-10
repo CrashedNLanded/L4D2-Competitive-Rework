@@ -1,4 +1,4 @@
-# **L4D2 Competitive Rework**
+# **L4D2 Competitive Mod**
 
 > [!IMPORTANT]
 > It is recommended to host servers on Linux, but Windows is supported.  
