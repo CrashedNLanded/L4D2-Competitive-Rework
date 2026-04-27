@@ -4,19 +4,19 @@
 	{
 		"flowmod"
 		{
-			"name" "FlowMod 1.4r2"
+			"name" "FlowMod 1.4.1"
 		}
 		"fm3v3"
 		{
-			"name" "3v3 FlowMod"
+			"name" "3v3 FlowMod 1.4.1"
 		}
 		"fm2v2"
 		{
-			"name" "2v2 FlowMod"
+			"name" "2v2 FlowMod 1.4.1"
 		}
 		"fm1v1"
 		{
-			"name" "1v1 FlowMod"
+			"name" "1v1 FlowMod 1.4.1"
 		}
 	}
 }
