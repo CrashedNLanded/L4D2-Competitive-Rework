@@ -18,6 +18,10 @@
 		{
 			"name" "1v1 FlowMod 1.4.2"
 		}
+                "fmT2"
+                {
+                        "name" Flowmod T2 1.4.2"
+                }
 	}
 	"ZoneMod Configs"
 	{
