@@ -1,0 +1,95 @@
+FlowMod 1.5
+
+(Changes from Zone 2.9.1b)
+
+// Survivors \\ 
+
+Pump Shotgun: Increased pellet damage to 17 (from 16)
+Reduced pellet count to 16 (from 17)
+Reduced minimum standing spread to 1.2 (from 1.5)
+Reduced min stand spread to 0.125 (from 0.8)
+
+Chrome: Reduced minimum standing spread to 0.9 (from 1.5)
+Reduced min stand spread to 0.1 (from 0.8)
+
+Mac10: Reduced min ducking spread to 0.8 (from 0.85)
+Reduced reload duration to 2 seconds (from 2.24 seconds)
+Increased damage falloff to 20% (from 19%)
+
+Uzi: Decreased min duck spread to 0.65 (from 0.7)
+Reduced reload duration to 1.8 seconds (from 1.9)
+
+Pistol: Reduced spread per shot to 0.75 (from 1)
+Reduced damage falloff to 20% (from 25%)
+
+Deagle: Reduced spread per shot to 1.6 (from 2)
+Reduced damage falloff to 17.5% (from 25%)
+Reduced damage to 72 (from 80)
+Reduced min duck spread to 0.4 (from 0.5)
+Reduced min stand spread to 1 (from 1.25)
+
+SMGs: Increased Reserve to 700 (from 650)
+
+Shotguns: Increased reserve to 80 (from 72)
+Increased common infected damage bonus range to 150 units (from 100)
+Can now reload on ladders
+
+Melee: Increased tank damage penalty to 33.3% (from 30%)
+(200 from 210)
+Reduced Melee damage to chargers to 325 (from 350)
+
+Pills: Increased health gain to 51 (from 50)
+
+Friendly Fire: Increased FF I frames after getting pinned to 1 second (from 0.8 seconds)
+
+// Infected \\
+
+Tank: Increased frustration LOS delay to 1.33 seconds (from 1.2 seconds)
+Increased movement speed to 210 Hu/s (from 205)
+
+Hunter: Reduced pounce to damage delay to 0.75 seconds (from 1 second)
+Can now wallkick on 4v4 and 3v3 again
+
+Boomer: Increased movespeed to 180 Hu/s (from 175)
+Increased min and max amount of commons when boomed from 12-45 to 13-46
+
+Jockey: Increased movespeed to 275 Hu/s (from 250)
+
+Smoker: Increased movespeed to 220 Hu/s (from 210)
+Increased tongue range to 825 units (from 750)
+Increased attack cooldown from tank punch to 10 seconds (from 8)
+Increased tongue hit delay to 16 seconds (from 13)
+
+Spitter: Increased movespeed to 220 Hu/s (from 210)
+Increased spit velocity to 1000 (from 900)
+
+Charger: Reduced I frames from 2.1/3.1 seconds to 1.9/2.9 seconds respectively.
+Increased punch damage to 8 (from 7)
+
+Commons: Increased mob size to 16 (from 15)
+
+(3v3 Exclusive change)
+
+Tank: Reduced HP to 4950 (from 5025)
+
+Reduced common mob limit to 14 (from 21)
+
+(2v2 Exclusive changes)
+
+Tank: Increased HP to 3525 (from 3480)
+
+Charger: Reduced HP to 550 (from 600)
+
+Pills: Increased map pill limit to 1 (from 0)
+
+Reduced common mob limit to 12 (from 13)
+
+(1v1 Exclusive changes)
+
+Hunter: Reduced pounce to damage delay to 0.33 seconds (from 1 second)
+
+Reduced common mob limit to 6 (from 9)
+
+// General \\
+
+Increased l4d2_slowdown_crouch_speed_mod to 1.24 (from 1.2)
