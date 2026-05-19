@@ -1,4 +1,4 @@
-# **L4D2 Competitive Mod**
+# **L4D2 Competitive OverHaul**
 
 > **Included Matchmodes:**
 
