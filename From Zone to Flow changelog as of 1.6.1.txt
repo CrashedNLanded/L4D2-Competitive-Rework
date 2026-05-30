@@ -32,8 +32,7 @@ Reduced damage to 70 (from 80)
 Reduced min duck spread to 0.35 (from 0.5)
 Reduced min stand spread to 0.875 (from 1.25)
 
-Shotguns: Increased common infected damage bonus range to 125 units (from 100)
-Can now reload on ladders
+Shotguns: Can now reload on ladders
 
 Melee: Increased tank damage penalty to 33.3% (from 30%)
 (200 from 210)
