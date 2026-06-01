@@ -29,8 +29,8 @@ Increased max move spread to 2.2 (from 2)
 
 Pistol: Reduced damage falloff to 20% (from 25%)
 
-Deagle: Reduced damage falloff to 19% (from 25%)
-Reduced damage to 70 (from 80)
+Deagle: Reduced damage falloff to 20% (from 25%)
+Reduced damage to 72 (from 80)
 Reduced min duck spread to 0.35 (from 0.5)
 Reduced min stand spread to 0.875 (from 1.25)
 
