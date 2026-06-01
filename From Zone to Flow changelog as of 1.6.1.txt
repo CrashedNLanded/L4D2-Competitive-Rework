@@ -18,12 +18,14 @@ Reduced damage falloff to 30% (from 35%)
 Increased pellet count to 10 (from 9)
 
 Mac10: Reduced min ducking spread to 0.78 (from 0.85)
-Reduced reload duration to 2.05 seconds (from 2.24 seconds)
+Reduced reload duration to 2 seconds (from 2.24 seconds)
 Increased damage falloff to 20% (from 19%)
 Increased max range to 2400 units (from 2200)
 Reduced Gainrange to 800 units (from 900)
+Increased max move spread to 2.5 (from 2.35)
 
 Uzi: Decreased min duck spread to 0.65 (from 0.7)
+Increased max move spread to 2.2 (from 2)
 
 Pistol: Reduced damage falloff to 20% (from 25%)
 
