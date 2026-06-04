@@ -14,14 +14,14 @@
 	}
 	"c7m1_docks"
 	{
-		"z_common_limit"	"6"
+		"z_common_limit"	"5"
 	}
 	"c7m2_barge"
 	{
-		"z_common_limit"	"6"
+		"z_common_limit"	"5"
 	}
 	"c13m4_cutthroatcreek"
 	{
-		"z_common_limit"	"1"
+		"z_common_limit"	"2"
 	}
 }

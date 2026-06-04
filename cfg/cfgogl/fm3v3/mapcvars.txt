@@ -22,6 +22,6 @@
 	}
 	"c13m4_cutthroatcreek"
 	{
-		"z_common_limit"	"4"
+		"z_common_limit"	"6"
 	}
 }
