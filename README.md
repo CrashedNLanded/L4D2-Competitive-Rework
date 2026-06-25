@@ -2,5 +2,5 @@
 
 > **Included Matchmodes:**
 
-* **Flowmod 1.7**
+* **Flowmod 1.7a**
 
