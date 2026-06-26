@@ -4,19 +4,19 @@
 	{
 		"flowmod"
 		{
-			"name" "FlowMod 1.7a"
+			"name" "FlowMod 1.7b"
 		}
 		"fm3v3"
 		{
-			"name" "3v3 FlowMod 1.7a"
+			"name" "3v3 FlowMod 1.7b"
 		}
 		"fm2v2"
 		{
-			"name" "2v2 FlowMod 1.7a"
+			"name" "2v2 FlowMod 1.7b"
 		}
 		"fm1v1"
 		{
-			"name" "1v1 FlowMod 1.7a"
+			"name" "1v1 FlowMod 1.7b"
                 }
 	}
 	"ZoneMod Configs"
