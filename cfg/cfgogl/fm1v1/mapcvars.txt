@@ -4,6 +4,10 @@
 	{
 		"z_common_limit"	"3"
 	}
+        "c2m2_atrium"
+        {
+                "z_common_limit"        "3"
+        }
 	"c5m5_bridge"
 	{
 		"z_common_limit"	"2"
