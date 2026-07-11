@@ -2,7 +2,7 @@
 
 > **Included Matchmodes:**
 
-* **Flowmod 1.7.1**
+* **Flowmod 1.8**
 
 * To apply server.cfg of your choosing, remove the (xx tick) from the appropriate file
 
