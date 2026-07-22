@@ -38,3 +38,10 @@
 			"name" "1v1 ZoneMod"
 		}
 	}
+        "AntiMod Config"
+        {
+                "antimod"
+                {
+                        "name" "AntiMod 1.0"
+                }
+}
