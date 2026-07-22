@@ -2,7 +2,7 @@
 
 > **Included Matchmodes:**
 
-* **Flowmod 1.9b**
+* **Flowmod 1.9c**
 
 * **AntiMod 1.0**
 
