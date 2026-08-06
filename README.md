@@ -2,9 +2,9 @@
 
 > **Included Matchmodes:**
 
-* **Flowmod 1.9.2a**
+* **Flowmod 1.10**
 
-* **AntiMod 1.0b**
+* **AntiMod 1.1**
 
 * To apply server.cfg of your choosing, remove the (xx tick) from the appropriate file
 
