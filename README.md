@@ -4,7 +4,7 @@
 
 * **Flowmod 1.10**
 
-* **AntiMod 1.1**
+* **AntiMod 1.2**
 
 * To apply server.cfg of your choosing, remove the (xx tick) from the appropriate file
 
