@@ -4,7 +4,7 @@
 	{
 		"flowmod"
 		{
-			"name" "FlowMod 1.10"
+			"name" "FlowMod 2.0"
 		}
 		"fm3v3"
 		{
