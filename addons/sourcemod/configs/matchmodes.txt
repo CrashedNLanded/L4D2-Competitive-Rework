@@ -42,6 +42,6 @@
         {
                 "antimod"
                 {
-                        "name" "AntiMod 1.1"
+                        "name" "AntiMod 1.2"
                 }
 }
