@@ -375,7 +375,7 @@
 			"Early spawns"
 			{
 				"min"		"0"
-				"max"		"38"
+				"max"		"40"
 			}
 		}
 	}
@@ -391,8 +391,8 @@
 		{
 			"CEDA trailer"
 			{
-				"min"		"49"
-				"max"		"54"
+				"min"		"48"
+				"max"		"55"
 			}
 		}
 	}
