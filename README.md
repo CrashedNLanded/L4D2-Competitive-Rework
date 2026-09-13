@@ -4,5 +4,5 @@
 
 * **Flowmod 2.1**
 
-* To apply server.cfg of your choosing, remove the (xx tick) from the appropriate file
+(Framework was originally made by Sirplease and his contributors. If he and any of his contributors have an issue; contact me via my discord "crashlanded101")
 
