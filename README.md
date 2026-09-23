@@ -2,7 +2,7 @@
 
 > **Included Matchmodes:**
 
-* **Flowmod 2.2 (Based on Zonemod 2.9.1b)**
+* **Flowmod 2.3 (Based on Zonemod 2.9.1b)**
 
 (Framework was originally made by Sirplease and his contributors. If he and any of his contributors have an issue, contact me via my discord "crashlanded101")
 
