@@ -11,7 +11,6 @@ This config uses ZoneMod 2.9.1b as a base (2.9.2b isnt great) and goes in it's o
 // Survivors \\
 
 Pistol: Reduced damage falloff to 20% (from 25%)
-
 Reduced standing spread to 1 (from 1.5)
 
 Desert Eagle: Reduced damage to 72 (from 80)
