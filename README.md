@@ -18,29 +18,27 @@ Reduced damage falloff to 15% (from 25%);
 Reduced crouched spread to 0.2 (from 0.5);
 Reduced standing spread to 0.5 (from 1.25)
 
-Uzi: Reduced damage falloff to 16% (from 22%);
-Reduced base damage to 20 (from 22);
+Uzi: Reduced damage falloff to 16% (from 17%);
 Reduced spread per shot to 0.2 (from 0.22);
-Reduced crouched spread to 0.667 (from 0.7);
-Reduced reload duration to 1.75 seconds (from 1.9)
+Reduced reload duration to 1.7 seconds (from 1.9)
 
 Mac10: Increased base damage to 26 (from 25);
 Increased damage falloff to 23% (from 19%);
 Reduced spread per shot to 0.24 (from 0.25);
-Reduced crouched spread to 0.8 (from 0.85);
+Reduced crouched spread to 0.84 (from 0.85);
 Increased movement spread to 2.4 (from 2.35);
-Reduced reload duration to 2.05 (from 2.24);
+Reduced reload duration to 2 (from 2.24);
 Reduced max range to 2000 units (from 2200)
 
 Chrome: Reduced damage falloff to 30% (from 35%);
 Reduced damage per pellet to 16 (from 28);
 Increased pellet count to 16 (from 9);
-Reduced pellet scatter pitch and yaw to 3.25 (from 4)
+Reduced pellet scatter pitch and yaw to 3 (from 4)
 
 Pump: Increased pellet damage to 18 (from 16);
 Reduced pellet count to 16 (from 17);
 Increased pellet scatter pitch to 4.25 (from 3);
-Reduced pellet scatter yaw to 4.25 (from 5)
+Reduced pellet scatter yaw to 4 (from 5)
 
 Shotguns: Increased damage bonus range to commons to 150 units (from 100);
 Reduced first ring pellets to 7 (from 8);
