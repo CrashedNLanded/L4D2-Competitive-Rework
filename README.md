@@ -21,6 +21,7 @@ Reduced standing spread to 0.5 (from 1.25)
 Uzi: Reduced damage falloff to 16% (from 17%);
 Reduced spread per shot to 0.2 (from 0.22);
 Reduced reload duration to 1.7 seconds (from 1.9)
+Reduced damage falloff to 15% (from 16%)
 
 Mac10: Increased base damage to 26 (from 25);
 Increased damage falloff to 23% (from 19%);
@@ -47,7 +48,7 @@ Increased reserve to 80 (from 72)
 
 SMGs: Increased reserve to 700 (from 650)
 
-Pills: Reduced decay rate from 0.27 to 0.25 (-1 health every 4 seconds from 3.7 seconds)
+Pills: Reduced decay rate from 0.27 to 0.25 a second
 
 (2v2's) Increased pills limit to 1 (from 0)
 
