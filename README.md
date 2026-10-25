@@ -34,11 +34,12 @@ Reduced max range to 2000 units (from 2200)
 Chrome: Reduced damage falloff to 30% (from 35%);
 Reduced damage per pellet to 16 (from 28);
 Increased pellet count to 16 (from 9);
-Reduced pellet scatter pitch and yaw to 3 (from 4)
+Reduced pellet scatter pitch and yaw to 2.75 (from 4)
 
-Pump: Increased pellet damage to 18 (from 16);
+Pump: Increased pellet damage to 19 (from 16);
 Reduced pellet count to 16 (from 17);
-Increased pellet scatter pitch to 4.25 (from 3);
+Increased damage falloff to 40% (from 30%);
+Increased pellet scatter pitch to 4 (from 3);
 Reduced pellet scatter yaw to 4 (from 5)
 
 Shotguns: Increased damage bonus range to commons to 150 units (from 100);
